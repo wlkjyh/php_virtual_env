@@ -1,0 +1,12 @@
+altgraph==0.17.3
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+markdown-it-py==2.1.0
+mdurl==0.1.2
+pefile==2023.2.7
+Pygments==2.14.0
+pyinstaller==5.8.0
+pyinstaller-hooks-contrib==2022.15
+pywin32-ctypes==0.2.0
+rich==13.3.1
+typing_extensions==4.4.0
+wincertstore==0.2

@@ -1,0 +1,1 @@
+﻿{"version":[],"description":"pear是PHP扩展及应用的一个代码仓库","replace":["pear.bat","peardev.bat","pecl.bat"],"register_env":[""]}
